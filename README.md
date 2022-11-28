@@ -1,4 +1,8 @@
-# Lhat  
+# Lhat Python Edition  
+## 开发周期结束 END OF LIFE
+感谢所有对此项目贡献的人，本项目现在停止开发，不会接受任何Pull Request，或者commit。  
+别误会嗷！我们只是迁移到新计划了！如有想开发的仍然可以贡献！  
+[Lhat C计划项目](https://github.com/3rdBit/Lhat-C-Plan)  
 ## 开发说明 DEVELOPING INSTRUCTIONS
 如果有开发人员想要研究一下Lhat的研究核心的话，里面请：  
 [Lhat通信核心文档](https://github.com/3rdBit/Lhat-Communications-Standard)  
